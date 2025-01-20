@@ -40,11 +40,14 @@ The *Quiz App* is designed to provide an interactive quiz experience for users, 
 1. *Clone the repository:*
   
   'https://github.com/asunm1353222207049/quizfluttergopikaa'
+
 2. Install dependencies:Make sure to install Flutter and all dependencies by running.
 flutter pub get
 
 3. Run the app:Run the app on your preferred emulator or connected device.
 flutter run.
+-**Screenshot**
+   ![image alt](https://github.com/asunm1353222207049/quizfluttergopikaa/tree/4c523a1a19e7855797b94c532cdccf4271c07bc1/images)
 
 -**Screenshots**9)
 
